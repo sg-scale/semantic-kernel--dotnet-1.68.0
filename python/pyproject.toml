@@ -39,7 +39,7 @@ dependencies = [
     # openai connector
     "openai >= 1.98.0,<2",
     # openapi and swagger
-    "openapi_core >= 0.18,<0.20",
+    "openapi_core >= 0.18,< 0.24",
     "websockets >= 13, < 16",
     "aiortc>=1.9.0",
     # OpenTelemetry
